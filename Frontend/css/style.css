@@ -1,0 +1,159 @@
+/*Geral*/
+body {
+  background-color: #badbfb;
+  font-family: helvetica, sans-serif;
+}
+
+h3 {
+  font-weight: bold;
+}
+
+.navbar {
+  background-color: #3986f0;
+  color: #fff;
+}
+
+.balance {
+  max-width: 170px;
+}
+
+.ml-auto {
+  margin-left: auto;
+}
+
+.bi-house {
+  font-size: 1.5rem;
+  padding-left: 1rem;
+  color: #FFF;
+}
+
+.principal-txt {
+  position: relative;
+  left: 1rem;
+}
+
+.bi-plus-circle {
+  font-size: 4rem;
+  color: white;
+}
+
+.bi-three-dots {
+  font-size: 1.5rem;
+  padding-right: 1rem;
+}
+
+/*Dashboard*/
+.texto-externo {
+  color: #875AC0;
+  padding-top: 15px;
+  margin-bottom: 5px;
+}
+
+.categoria {
+  text-align: justify;
+  padding-top: 15px;
+}
+
+.titulo-home {
+  color: #8942f7;
+  padding: 15px;
+  font-weight: bold;
+}
+
+.bi-person-square {
+  font-size: 2rem; 
+  color: #875AC0;
+}
+
+.bi-arrow-up-circle {
+  color: #73B761; 
+  font-size: 2rem; 
+  float: left;
+}
+
+.saldo {
+  font-size: 0.8rem;
+}
+
+.saldoR {
+  font-size: 0.8rem;
+  color: #73B761;
+  font-weight: bold;
+  margin-top: -18px
+}
+
+.bi-arrow-down-circle {
+  color: #DE0000; 
+  font-size: 2rem; 
+  float: left
+}
+
+.saldoD {
+  font-size: 0.8rem;
+  color: #DE0000;
+  font-weight: bold;
+  margin-top: -18px
+}
+
+.bi-pie-chart-fill {
+  color: #FFCF4D; 
+  font-size: 6rem; 
+  float: center
+}
+
+/*Adicionar despesas*/
+.body-despesa {
+  background-color: #badbfb;
+  color: #ffff;
+  margin-top: 15px;
+}
+
+.header-container {
+  text-align: center;
+}
+
+.btn-despesa {
+  background-color: #3986f0;
+  border-radius: 10px;
+  border-color: #3986f0;
+  color: #ffff;
+  padding: 0 0.8rem 0 0.8rem
+}
+
+.title-container {
+  background-color: #b9b9b9;
+  border-radius: 18px;
+  width: 112px;
+  padding: 3px;
+  letter-spacing: 1px;
+  margin: 0 auto;
+}
+
+.despesa-title {
+  color: #ffff;
+  font-weight: bold;
+  margin-top: 15px;
+}
+
+.form-btn {
+  text-align: center
+}
+
+.container-form {
+  color: #3986f0;
+  border-radius: 25px;
+  margin: 10px;
+  padding: 20px;
+  background-color: #ffff
+}
+
+.btn-salvar-1 {
+  background-color: #3986f0;
+  border-radius: 10px;
+  border-color: #3986f0;
+  color: #ffff;
+  font-size: 1.1rem;
+  font-weight: bold;
+  padding: 0 0.8rem 0 0.8rem
+}
+
